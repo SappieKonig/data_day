@@ -1,3 +1,10 @@
+# Custom
+all_pdfs/
+chroma_db*
+**/*.zip
+**/*.pdf
+**/.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
